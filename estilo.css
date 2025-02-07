@@ -1,0 +1,39 @@
+body{
+    /*background-color: chartreuse;*/
+    background-image: url(imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucia Sans', 'Lucia Sanas Regular', 'Lucia Grande', 'Lucia Sanas Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: chartreuse;
+    text-align: center;
+    border: Spx solid blue;
+    padding: 10px;
+
+}
+
+h2{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+ul{
+    list-style: none;
+    text-align: Center;
+}
+
+li{
+    /* borde naranja */
+    border: 5px solid orangered;
+    /* color de fondo blanco */
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+    font-size: 18px;
+}
